@@ -5,4 +5,4 @@ Clone a repository recursively using GitHub Apps
 `sudo gem install jwt`
 
 ### Usage
-`./recursive_clone.sh -k <app.private-key.pem> -i <app id> -r "https repo"`
+`./recursive_clone.sh -k <app.private-key.pem> -i <app id> -r "<https://github.com/User/Repo.git>"`
